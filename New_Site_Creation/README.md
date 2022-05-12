@@ -1,4 +1,4 @@
-# newsite
+# New Site Creation
 
 ## Project setup
 ```
